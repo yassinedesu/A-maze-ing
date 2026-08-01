@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by \<login1\>, \<login2\>.*
+*This project has been created as part of the 42 curriculum by \<yael-kha (Yassine El khader)\>, \<ohajjami (Omayma Hajjami)\>.*
 
 ---
 
@@ -172,8 +172,8 @@ python -m build
 
 | Member   | Responsibilities                                      |
 |----------|-------------------------------------------------------|
-| \<login1\> | Makefile, DFS algorithm, output writer, ANSI renderer, pip package |
-| \<login2\> | Config parser, data structure, BFS solver, "42" pattern, menu loop |
+| \<yael-kha (Yassine El khader)\> | Makefile, DFS algorithm, output writer, ANSI renderer, pip package |
+| \<ohajjami (Omayma Hajjami)\> | Config parser, data structure, BFS solver, "42" pattern, menu loop |
 
 ### Planning
 
